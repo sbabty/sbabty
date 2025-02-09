@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Soufiane, Technician specialized in IT development with solid experience in IT maintenance, programming and data scraping. 
-I also Technician in Maintenance and Support IT and Networks, Passionate about technological innovation and the development of effective software solutions.
+I am Soufiane, a technician specializing in IT development with solid experience in IT maintenance, programming and data scraping. I am also a Technician in IT and Network Maintenance and Support, passionate about technological innovation and the development of effective software solutions.
 
 
 - 📫 How to reach me:
