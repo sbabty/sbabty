@@ -6,5 +6,7 @@ I am Soufiane, a technician specializing in IT development with solid experience
 - 📫 How to reach me:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soufiane-babty-284941209/)
+## 📫 How to Reach Me
+- LinkedIn: [(https://www.linkedin.com/in/soufiane-babty-284941209/)]
+- Email: [babty.soufiane@gmail.com]
 
