@@ -13,4 +13,4 @@ I am Soufiane, a technician specializing in IT development with solid experience
 
 ---  
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue)
