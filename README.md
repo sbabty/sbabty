@@ -13,4 +13,4 @@ I am Soufiane, a technician specializing in IT development with solid experience
 
 ---  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Soufiane Babty&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sbabty&color=blue)
