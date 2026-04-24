@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am Soufiane, a technician specializing in IT development with solid experience in IT maintenance, programming and data scraping. I am also a Technician in IT and Network Maintenance and Support, passionate about technological innovation and the development of effective software solutions.
+I am Soufiane, a technician specializing in IT development (Bac +2), with experience in software development, IT support, and data-related projects.
+I have worked on programming projects using C#, Python, and PHP, including backend development, web scraping, and data processing. I am also experienced in IT maintenance and network support.
+Passionate about technology and continuous learning, I focus on building practical and efficient software solutions through hands-on projects.
 
 
 ## 📫 How to Reach Me
